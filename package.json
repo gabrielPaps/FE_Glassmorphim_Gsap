@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gabrielPaps/FE_Glassmorphim_Gsap.git"
+    "url": "git+https://github.com/gabrielPaps/FE_Glassmorphism_Gsap.git"
   },
   "keywords": [
     "Practica",
@@ -19,7 +19,7 @@
   "author": "Gabriel Omar Caruso",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gabrielPaps/FE_Glassmorphim_Gsap/issues"
+    "url": "https://github.com/gabrielPaps/FE_Glassmorphism_Gsap/issues"
   },
-  "homepage": "https://github.com/gabrielPaps/FE_Glassmorphim_Gsap#readme"
+  "homepage": "https://github.com/gabrielPaps/FE_Glassmorphism_Gsap#readme"
 }
