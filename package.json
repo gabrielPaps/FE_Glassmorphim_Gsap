@@ -1,0 +1,25 @@
+{
+  "name": "glassmorphism",
+  "version": "1.0.0",
+  "description": "Práctica de nuevo trending",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "sass --watch ./sass:./css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielPaps/FE_Glassmorphim_Gsap.git"
+  },
+  "keywords": [
+    "Practica",
+    "glassmorphim",
+    "gsap"
+  ],
+  "author": "Gabriel Omar Caruso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielPaps/FE_Glassmorphim_Gsap/issues"
+  },
+  "homepage": "https://github.com/gabrielPaps/FE_Glassmorphim_Gsap#readme"
+}
